@@ -1,0 +1,6 @@
+function
+user clicks number that gets stored to first number variable
+user clicks either another number or an operator...
+    if a second number, append to first number variable.
+    if an operator, add to new operator variable.
+    repeat until equals sign
